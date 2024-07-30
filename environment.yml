@@ -1,0 +1,14 @@
+name: psychosis-dimensions
+channels:
+  - conda-forge
+  - desilinguist
+dependencies:
+  - python=3.8.12
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - factor_analyzer
+  - plotly
+  - scikit-learn
