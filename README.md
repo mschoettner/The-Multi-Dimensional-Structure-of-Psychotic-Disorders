@@ -1,4 +1,4 @@
-# The-Multi-Dimensional-Structure-of-Psychotic-Disorders
+# The Multi-Dimensional Structure of Psychotic Disorders
 
 This is the repository with the analysis code for the paper "The Multi-Dimensional Structure of Psychotic Disorders"
 
